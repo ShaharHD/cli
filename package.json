@@ -33,7 +33,7 @@
     "nodeify": "^1.0.1",
     "pg": "latest",
     "pg-hstore": "latest",
-    "sequelize": "latest",
+    "sequelize": "^5.0.0",
     "sqlite3": "latest",
     "through2": "^3.0.0"
   },
